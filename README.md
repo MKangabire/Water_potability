@@ -3,7 +3,7 @@
 ## **Group Members**  
 - **Denys Ntwaritaganzwa**  
 - **John Akech**  
-- **Merveil Kangabire**  
+- **Merveille Kangabire**  
 
 ## **Project Overview**  
 This project builds a **neural network-based classification model** to predict **water potability** using a provided dataset. Each team member applies **different optimization techniques**, allowing for a meaningful performance comparison.  
@@ -86,4 +86,4 @@ We will include a **video walkthrough** explaining our models, optimizations, an
 ---
 
 ## **Conclusion**  
-This project **successfully applies neural networks** to classify **water potability**, demonstrating the impact of **different optimization techniques**. The comparison provides insights into **model performance and areas for improvement**. 🚀
+This project **successfully applies neural networks** to classify **water potability**, demonstrating the impact of **different optimization techniques**. The comparison provides insights into **model performance and areas for improvement**. 
