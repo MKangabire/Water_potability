@@ -67,7 +67,7 @@ Each model was compared based on:
 
 | Engineer             | Regularizer    | Optimizer         | Early Stopping | Dropout Rate | Accuracy | F1 Score | Recall | Precision |
 |----------------------|--------------- |-------------------|----------------|--------------|----------|----------|--------|-------------|
-| Denys Ntwaritaganzwa | L1_L2          | Adam              | Yes            | 0.3          | X.XX%    | X.XX     | X.XX   | X.XX        |
+| Denys Ntwaritaganzwa | L1_L2          | Adam              | Yes            | 0.3          | 68.9%    | 0.471    | 0.368  | 0.654       |
 | John Akech           | L2             | RMSprop           | Yes            | 0.2          | X.XX%    | X.XX     | X.XX   | X.XX        |
 | Merveil Kangabire    | L1             | RMSprop           | Yes            | 0.4          | 86.7%    | 0.85     | 0.78   | 0.92        |
 
