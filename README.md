@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ## **Model Training**  
 Each member designed a **unique model** with different **optimization techniques**:  
 
-- **Denys Ntwaritaganzwa** → **Adam optimizer** with **L1_L2 regularization**  
+- **Denys Ntwaritaganzwa** → **Adamax optimizer** with **L1_L2 regularization**  
 - **John Akech** → **RMSprop optimizer** with **L2 regularization**  
 - **Merveil Kangabire** → **SGD optimizer** with **L1**  
 
