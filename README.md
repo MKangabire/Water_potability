@@ -50,7 +50,7 @@ Each member designed a **unique model** with different **optimization techniques
 
 - **Denys Ntwaritaganzwa** → **Adamax optimizer** with **L1_L2 regularization**  
 - **John Akech** → **RMSprop optimizer** with **L2 regularization**  
-- **Merveil Kangabire** → **SGD optimizer** with **L1**  
+- **Merveille Kangabire** → **RMSprop optimizer** with **L1 and L2**  
 
 Each model was **trained and evaluated separately**.  
 
@@ -69,7 +69,7 @@ Each model was compared based on:
 |----------------------|--------------- |-------------------|----------------|--------------|----------|----------|--------|-------------|
 | Denys Ntwaritaganzwa | L1_L2          | Adam              | Yes            | 0.3          | X.XX%    | X.XX     | X.XX   | X.XX        |
 | John Akech           | L2             | RMSprop           | Yes            | 0.2          | X.XX%    | X.XX     | X.XX   | X.XX        |
-| Merveil Kangabire    | L1             | SGD + Momentum    | Yes            | 0.1          | X.XX%    | X.XX     | X.XX   | X.XX        |
+| Merveil Kangabire    | L1             | RMSprop           | Yes            | 0.4          | 86.7%    | 0.85     | 0.78   | 0.92        |
 
 ---
 
