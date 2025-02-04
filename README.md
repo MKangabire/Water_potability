@@ -80,7 +80,7 @@ We will include a **video walkthrough** explaining our models, optimizations, an
 
 ## **Contribution & Documentation**  
 ✔ Each member defined, trained, and evaluated their model  
-✔ Commits reflect **meaningful contributions**  
+✔ Commits reflect **meaningful contributions**  and they are in 3 different branches those are **[Denys_dntwaritag](https://github.com/MKangabire/Water_potability/blob/Denys_dntwaritag/Denys_Ntwaritaganzwa's_formative_II.ipynb)**, **[Aroma](https://github.com/MKangabire/Water_potability/blob/AROMA/Water_Quality_Classification_Model_Using_Neural_Networks.ipynb)**, **[Merveille](https://github.com/MKangabire/Water_potability/blob/Merveille/water_potability_.ipynb)**. 
 ✔ The final report includes **methodology, findings, and key insights**  
 
 ---
