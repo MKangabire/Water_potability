@@ -17,15 +17,25 @@ We use the **[Water Quality and Potability Dataset](https://drive.google.com/fil
 ## **Repository Structure**  
 
 ├── data/
+
 │   ├── water_potability.csv
+
 ├── notebooks/
+
 │   ├── data_preprocessing.ipynb
+
 │   ├── model_training.ipynb
+
 │   ├── evaluation.ipynb
+
 ├── src/
+
 │   ├── model_denys.py
+
 │   ├── model_john.py
+
 │   ├── model_merveil.py
+
 ├── README.md
 
 ## **Installation**  
