@@ -78,7 +78,7 @@ Each model was compared based on:
 
 ## **Video & Docummentation Submission **  
 
-We will include a **video walkthrough** explaining our models, optimizations, and results. **[Video Link](https://docs.google.com/document/d/1Uhbf4agxt9FgbT0OUXpSVcmpcSAuEm-oN4OuwbgGF0I/edit?usp=sharing)** and **[Documentation Link](https://docs.google.com/document/d/1Uhbf4agxt9FgbT0OUXpSVcmpcSAuEm-oN4OuwbgGF0I/edit?usp=sharing)**
+We will include a **video walkthrough** explaining our models, optimizations, and results. **[Video Link](https://drive.google.com/file/d/1moT8D2RVdbe-CmIsWoQtc5p0EOSsY-E3/view?usp=drivesdk)** and **[Documentation Link](https://docs.google.com/document/d/1Uhbf4agxt9FgbT0OUXpSVcmpcSAuEm-oN4OuwbgGF0I/edit?usp=sharing)**
 
 ## **Contribution & Documentation**  
 
