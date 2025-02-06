@@ -17,25 +17,15 @@ We use the **[Water Quality and Potability Dataset](https://drive.google.com/fil
 ## **Repository Structure**  
 
 ├── data/
-
 │   ├── water_potability.csv
-
 ├── notebooks/
-
 │   ├── data_preprocessing.ipynb
-
 │   ├── model_training.ipynb
-
 │   ├── evaluation.ipynb
-
 ├── src/
-
 │   ├── model_denys.py
-
 │   ├── model_john.py
-
 │   ├── model_merveil.py
-
 ├── README.md
 
 ## **Installation**  
@@ -70,9 +60,9 @@ Each model was compared based on:
 
 | Engineer             | Regularizer    | Optimizer         | Early Stopping | Dropout Rate | Accuracy | F1 Score | Recall | Precision |
 |----------------------|--------------- |-------------------|----------------|--------------|----------|----------|--------|-------------|
-| Denys Ntwaritaganzwa | L1_L2          | Adam              | Yes            | 0.4          | 68.9%    | 0.471    | 0.368  | 0.654       |
-| John Akech           | L2             | Adam              | Yes            | 0.2          | X.XX%    | X.XX     | X.XX   | X.XX        |
-| Merveil Kangabire    | L1             | RMSprop           | Yes            | 0.4          | 86.7%    | 0.85     | 0.78   | 0.92        |
+| Denys Ntwaritaganzwa | L1_L2          | Adam              | Yes            | 0.4          | 68.9%    | 47.1%    | 36.8%  | 65.4%       |
+| John Akech           | L2             | Adam              | Yes            | 0.5          | 62.0%    | 52.0%    | 50.0%  | 71.0%       |
+| Merveil Kangabire    | L1             | RMSprop           | Yes            | 0.4          | 86.7%    | 85.0%    | 78.0%   | 92.0%      |
 
 ---
 
